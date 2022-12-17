@@ -1,0 +1,2 @@
+https://younglinux.info/tkinter/grid
+https://metanit.com/python/tutorial/9.6.php
