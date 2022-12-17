@@ -12,10 +12,10 @@ gauss_grafical.txt is not important file and contain some information for create
 
 Before you start install numpy and pandas by using
 
-sudo apt-get update
+    sudo apt-get update
 
-sudo apt-get install pip
+    sudo apt-get install pip
 
-sudo pip install numpy
+    sudo pip install numpy
 
-sudo pip install pandas
+    sudo pip install pandas
